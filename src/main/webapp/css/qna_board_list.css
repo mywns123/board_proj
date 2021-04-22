@@ -1,0 +1,54 @@
+ㄹ@charset "UTF-8";
+
+#list{	
+	height: 400px;
+	margin: 0 auto;
+}
+
+#pageList{
+	margin: 0 auto;
+	text-align: center;
+	height: 500px;
+}
+
+h2{
+	text-align: center;
+}
+
+h4{
+	text-align: center;
+	padding-left: 500px;
+}
+
+table{
+	margin: auto;
+	width: 600px;
+	border-collapse: collapse;
+	border-top : 1px solid red;
+	text-align: center;
+}
+
+#subject{
+	text-align: left;	
+	padding-left:  20px;
+}
+
+
+#th{
+	background: orange;
+	text-align: center;
+	border-top-color : red;
+	
+}
+
+#td{	
+	text-align: center;	
+	border: 1px solid #ddd;
+}
+
+
+span{	
+	color: red;
+}
+
+

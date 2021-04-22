@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+#passForm {
+	width: 400px;
+	margin: auto;
+	border: 1px solid orange;
+}
+
+#btn {
+	margin: auto;
+}
+
+#btn1 {
+	margin: auto;
+}

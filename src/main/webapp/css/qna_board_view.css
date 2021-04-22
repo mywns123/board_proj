@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+#articleForm {
+	width: 500px;
+	height: 500px;
+	border: 1px solid red;
+	margin: auto;
+}
+
+h2 {
+	text-align: center;
+}
+
+#basicInfoArea {
+	text-align: center;
+	height: 40px;
+}
+
+#articleContentArea {
+	margin-top: 20px;
+	height: 370px;
+	overflow: auto;
+	background: #c0c0c0;
+}
+
+#commandList {
+	text-align: center;
+}
